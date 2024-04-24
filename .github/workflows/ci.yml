@@ -12,3 +12,5 @@ jobs:
           go-version: 'stable'
       - name: Gather dependencies
         run: go mod download
+      - name: Run coverage
+        run: go test -race -coverprofile=coverage.txt -covermode=atomic ./...
