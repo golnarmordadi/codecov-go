@@ -12,4 +12,3 @@ jobs:
           go-version: 'stable'
       - name: Gather dependencies
         run: go mod download
-
