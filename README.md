@@ -1,4 +1,4 @@
-# [Codecov](https://codecov.io) Go Example
+# [Codecov](https://codecov.io) Go Codecov
 
 [![codecov](https://codecov.io/gh/codecov/example-go/branch/main/graph/badge.svg?token=tNKcOjlxLo)](https://codecov.io/gh/codecov/example-go)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-go?ref=badge_shield)
